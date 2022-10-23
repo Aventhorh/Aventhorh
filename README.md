@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Andrey Milyutin</h1>
-<h1 align="center">Hi 👋, I'm Andrey Milyutin</h1>
 <h3 align="center">Frontend developer from Russia</h3>
 
 - My profile in codewars [Aventhor](https://www.codewars.com/users/Aventhor)
